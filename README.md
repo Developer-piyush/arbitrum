@@ -1,4 +1,4 @@
-<br />
+
 <p align="center">
   <a href="https://arbitrum.io/">
     <img src="https://arbitrum.io/wp-content/uploads/2021/08/Arbitrum_Symbol-Full-color-White-background-768x840.png" alt="Logo" width="80" height="80">
